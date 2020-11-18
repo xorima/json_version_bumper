@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Fixed bug with dockerhub push due to set-env deprecation
+
 ## 1.0.1 - *2020-10-25*
 
 - Added a changelog to track changes
